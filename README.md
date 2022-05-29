@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://med-hedi-ben-mousa.github.io/My-Portfolio/](https://med-hedi-ben-mousa.github.io/My-Portfolio/)
 
-- 📝 I regularly write articles on [https://errormakers.blogspot.com/](https://errormakers.blogspot.com/)
+- 📝 I regularly write articles on [https://errormakers.blogspot.com](https://www.errormaker.software/)
 
 - 💬 Ask me about **Anything**
 
